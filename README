@@ -1,0 +1,10 @@
+Gridlock
+Modular shelving system inspired by Lego
+
+The pipeline:
+1) Generate an .stl file using main.py that contains 3D shapes for the shelves you want to build
+
+2) Optionally project the .stl file into a DXF using OpenSCAD and feed it to your lasering/routering CNC machine
+
+Alex W
+alex@blinkenlights.ca
